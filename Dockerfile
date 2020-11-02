@@ -20,7 +20,7 @@ RUN yum install -y epel-release dnf \
             openbox obconf-qt \
             lxqt-about lxqt-common lxqt-config lxqt-globalkeys lxqt-notificationd \
             lxqt-openssh-askpass lxqt-panel lxqt-policykit lxqt-qtplugin lxqt-runner \
-            lxqt-session pcmanfm-qt \
+            lxqt-session pcmanfm-qt chromium \
             dejavu-sans-mono-fonts \
             xterm nano htop expect sudo \
         && \
